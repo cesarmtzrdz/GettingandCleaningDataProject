@@ -14,12 +14,12 @@ The files activity_labels.txt and features.txt contains the catalog and column n
 
 | ID | Activity 		   |
 | --- | -------------------|
-|   | WALKING             |
-|   | WALKING_UPSTAIRS    |
-|   | WALKING_DOWNSTAIRS  |
-|   | SITTING             |
-|   | STANDING            |
-|   | LAYING              |
+|  1 | WALKING             |
+|  2 | WALKING_UPSTAIRS    |
+|  3 | WALKING_DOWNSTAIRS  |
+|  4 | SITTING             |
+|  5 | STANDING            |
+|  6 | LAYING              |
 
 
 **Columns after the data has been transformed into tiddy:**
